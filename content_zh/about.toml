@@ -3,26 +3,27 @@ title = "关于我"
 
 [profile]
 research_interests = [
-  "计算物理",
-  "数学原理",
-  "定理证明"
+  "风电场优化与控制",
+  "新能源并网",
+  "模型预测控制",
+  "漂浮式海上风电机组"
 ]
 
 [[sections]]
 id = "about"
 type = "markdown"
 source = "bio.md"
-title = "关于我"
+title = "个人简介"
 
 [[sections]]
 id = "featured_publications"
 type = "publications"
-title = "精选论文"
+title = "代表性论文"
 filter = "selected"
 limit = 5
 
 [[sections]]
 id = "news"
 type = "list"
-title = "动态"
+title = "最新动态"
 source = "news.toml"
