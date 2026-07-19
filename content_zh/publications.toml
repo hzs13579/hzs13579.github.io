@@ -1,4 +1,4 @@
 type = "publication"
-title = "论文"
-description = "我的研究成果列表。"
+title = "论文成果"
+description = "风电场优化、新能源控制与电力系统领域的期刊和会议论文。"
 source = "publications.bib"
