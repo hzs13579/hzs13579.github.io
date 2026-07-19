@@ -3,9 +3,10 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Wind Farm Optimization",
-  "Renewable Energy Control",
-  "Model Predictive Control",
+  "Renewable Energy Integration and Grid Support",
+  "Wind Farm Optimization and Control",
+  "Wind Turbine and Offshore Wind Energy",
+  "Model Predictive Control and Wind-Storage Coordination"
 ]
 
 [[sections]]
