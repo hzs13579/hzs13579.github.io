@@ -9,5 +9,5 @@ date = "2023.04 - 2025.07"
 content = """
 Developed and implemented a plant-level active-support control scheme for renewable-energy aggregation. The work included a measurement-driven lifted-mapping method for global linearization, a model-data co-driven framework for power tracking and frequency/voltage support, and a stochastic MPC formulation with wind-speed forecast-error correction.
 
-The optimization jointly considered grid-side power fluctuation, schedule-tracking error, renewable curtailment, and battery degradation, while enforcing constraints on energy storage, pitch angle, and grid voltage. The cluster-level controller was validated through real-time hardware-in-the-loop simulation on RTDS.
+The optimization jointly considered grid-side power fluctuation, schedule-tracking error, renewable curtailment, and battery degradation, while enforcing constraints on energy storage, pitch angle, and grid voltage. The cluster-level controller was validated through real-time simulation on RTDS.
 """
