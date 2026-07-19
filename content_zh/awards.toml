@@ -3,55 +3,55 @@ title = "奖励与荣誉"
 description = "代表性奖励与荣誉。"
 
 [[items]]
-title = "全国二等奖（队长）"
-subtitle = "全国大学生数学建模竞赛"
+title = "全国大学生数学建模竞赛"
+subtitle = "全国二等奖 · 队长"
 date = "2019.11"
 content = "获得全国二等奖，并担任参赛队队长。"
 
 [[items]]
-title = "陕西省一等奖"
-subtitle = "全国大学生数学建模竞赛"
+title = "全国大学生数学建模竞赛"
+subtitle = "陕西省一等奖"
 date = "2018.11"
 content = "获得陕西赛区一等奖。"
 
 [[items]]
-title = "陕西赛区一等奖"
-subtitle = "第十一届全国大学生数学竞赛"
+title = "第十一届全国大学生数学竞赛"
+subtitle = "陕西赛区一等奖"
 date = "2019.10"
 content = "获得陕西赛区一等奖。"
 
 [[items]]
-title = "一等奖"
-subtitle = "西安交通大学数学建模竞赛"
+title = "西安交通大学数学建模竞赛"
+subtitle = "一等奖"
 date = "2019.05"
 content = "获得校级一等奖。"
 
 [[items]]
-title = "一等奖"
-subtitle = "西安交通大学数学建模竞赛"
+title = "西安交通大学数学建模竞赛"
+subtitle = "一等奖"
 date = "2018.05"
 content = "获得校级一等奖。"
 
 [[items]]
-title = "邱长荣奖学金二等奖"
-subtitle = "西安交通大学"
+title = "邱长荣奖学金"
+subtitle = "二等奖"
 date = "2020.11"
 content = "获评2019—2020学年邱长荣奖学金二等奖。"
 
 [[items]]
-title = "邱长荣奖学金二等奖"
-subtitle = "西安交通大学"
+title = "邱长荣奖学金"
+subtitle = "二等奖"
 date = "2019.11"
 content = "获评2018—2019学年邱长荣奖学金二等奖。"
 
 [[items]]
-title = "优秀学生"
-subtitle = "西安交通大学钱学森学院"
+title = "钱学森学院优秀学生"
+subtitle = "2019—2020学年"
 date = "2020.10"
-content = "获评2019—2020学年优秀学生。"
+content = "获评西安交通大学钱学森学院优秀学生。"
 
 [[items]]
-title = "优秀学生"
-subtitle = "西安交通大学钱学森学院"
+title = "钱学森学院优秀学生"
+subtitle = "2018—2019学年"
 date = "2019.10"
-content = "获评2018—2019学年优秀学生。"
+content = "获评西安交通大学钱学森学院优秀学生。"
