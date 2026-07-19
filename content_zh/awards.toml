@@ -1,27 +1,57 @@
 type = "card"
-title = "奖项"
-description = "我获得的荣誉与奖项。"
+title = "奖励与荣誉"
+description = "代表性奖励与荣誉。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2025"
-content = "奖项说明。"
+title = "全国二等奖（队长）"
+subtitle = "全国大学生数学建模竞赛"
+date = "2019.11"
+content = "获得全国二等奖，并担任参赛队队长。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2024"
-content = "奖项说明。"
+title = "陕西省一等奖"
+subtitle = "全国大学生数学建模竞赛"
+date = "2018.11"
+content = "获得陕西赛区一等奖。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2023"
-content = "奖项说明。"
+title = "陕西赛区一等奖"
+subtitle = "第十一届全国大学生数学竞赛"
+date = "2019.10"
+content = "获得陕西赛区一等奖。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2022"
-content = "奖项说明。"
+title = "一等奖"
+subtitle = "西安交通大学数学建模竞赛"
+date = "2019.05"
+content = "获得校级一等奖。"
+
+[[items]]
+title = "一等奖"
+subtitle = "西安交通大学数学建模竞赛"
+date = "2018.05"
+content = "获得校级一等奖。"
+
+[[items]]
+title = "邱长荣奖学金二等奖"
+subtitle = "西安交通大学"
+date = "2020.11"
+content = "获评2019—2020学年邱长荣奖学金二等奖。"
+
+[[items]]
+title = "邱长荣奖学金二等奖"
+subtitle = "西安交通大学"
+date = "2019.11"
+content = "获评2018—2019学年邱长荣奖学金二等奖。"
+
+[[items]]
+title = "优秀学生"
+subtitle = "西安交通大学钱学森学院"
+date = "2020.10"
+content = "获评2019—2020学年优秀学生。"
+
+[[items]]
+title = "优秀学生"
+subtitle = "西安交通大学钱学森学院"
+date = "2019.10"
+content = "获评2018—2019学年优秀学生。"
